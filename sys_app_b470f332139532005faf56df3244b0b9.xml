@@ -22,14 +22,14 @@
         <sys_created_by>scott.starkey@snc</sys_created_by>
         <sys_created_on>2017-03-08 15:55:01</sys_created_on>
         <sys_id>b470f332139532005faf56df3244b0b9</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_updated_by>scott.starkey@snc</sys_updated_by>
-        <sys_updated_on>2017-03-08 18:56:20</sys_updated_on>
+        <sys_updated_on>2017-03-08 21:59:03</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <user_role display_value="x_snc_tweedledum.user" name="x_snc_tweedledum.user">7c70f332139532005faf56df3244b0c6</user_role>
         <vendor/>
         <vendor_prefix/>
-        <version>1.0.0</version>
+        <version>1.0.1</version>
     </sys_app>
 </record_update>

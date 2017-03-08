@@ -83,7 +83,7 @@
         <sys_class_name>sys_report</sys_class_name>
         <sys_created_by>scott.starkey@snc</sys_created_by>
         <sys_created_on>2017-03-08 18:03:35</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>1ced844f135532005faf56df3244b03e</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>Incident Report</sys_name>

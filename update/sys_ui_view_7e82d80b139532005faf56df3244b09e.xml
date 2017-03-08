@@ -8,7 +8,7 @@
         <sys_class_name>sys_ui_view</sys_class_name>
         <sys_created_by>scott.starkey@snc</sys_created_by>
         <sys_created_on>2017-03-08 18:23:58</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>7e82d80b139532005faf56df3244b09e</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Pa_test_tab</sys_name>

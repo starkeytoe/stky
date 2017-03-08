@@ -4,7 +4,7 @@
         <sys_class_name>sys_security_acl_role</sys_class_name>
         <sys_created_by>scott.starkey@snc</sys_created_by>
         <sys_created_on>2017-03-08 15:55:03</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>1170f332139532005faf56df3244b0cf</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_snc_tweedledum_table.x_snc_tweedledum.user</sys_name>
