@@ -15,21 +15,21 @@
         <scoped_administration>false</scoped_administration>
         <short_description/>
         <source>x_snc_tweedledum</source>
-        <store_correlation_id>REPOAPP0000001173</store_correlation_id>
+        <store_correlation_id>REPOAPP0000001174</store_correlation_id>
         <store_url/>
         <sys_class_name>sys_app</sys_class_name>
         <sys_code/>
         <sys_created_by>scott.starkey@snc</sys_created_by>
         <sys_created_on>2017-03-08 15:55:01</sys_created_on>
         <sys_id>b470f332139532005faf56df3244b0b9</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_updated_by>scott.starkey@snc</sys_updated_by>
-        <sys_updated_on>2017-03-08 21:59:03</sys_updated_on>
+        <sys_updated_on>2017-03-09 22:52:49</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <user_role display_value="x_snc_tweedledum.user" name="x_snc_tweedledum.user">7c70f332139532005faf56df3244b0c6</user_role>
         <vendor/>
         <vendor_prefix/>
-        <version>1.0.1</version>
+        <version>1.0.2</version>
     </sys_app>
 </record_update>
