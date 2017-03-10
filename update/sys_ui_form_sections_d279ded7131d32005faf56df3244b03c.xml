@@ -85,6 +85,20 @@
             <sys_updated_by>scott.starkey@snc</sys_updated_by>
             <sys_updated_on>2017-03-10 13:39:22</sys_updated_on>
         </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>6</position>
+            <sys_created_by>scott.starkey@snc</sys_created_by>
+            <sys_created_on>2017-03-10 13:53:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>64e7256b13dd32005faf56df3244b0c0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_tweedledum_table" name="x_snc_tweedledum_table" sys_domain="global" view="0079569f13d932005faf56df3244b0d0">d279ded7131d32005faf56df3244b03c</sys_ui_form>
+            <sys_ui_section caption="newsec2" display_value="newsec2" name="x_snc_tweedledum_table" sys_domain="global" view="0079569f13d932005faf56df3244b0d0">20e7256b13dd32005faf56df3244b0c0</sys_ui_section>
+            <sys_updated_by>scott.starkey@snc</sys_updated_by>
+            <sys_updated_on>2017-03-10 13:53:47</sys_updated_on>
+        </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_snc_tweedledum_table</name>
             <roles/>
@@ -95,7 +109,7 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>d279ded7131d32005faf56df3244b03c</sys_id>
-            <sys_mod_count>10</sys_mod_count>
+            <sys_mod_count>12</sys_mod_count>
             <sys_name>x_snc_tweedledum_table</sys_name>
             <sys_overrides/>
             <sys_package display_value="tweedledum" source="x_snc_tweedledum">b470f332139532005faf56df3244b0b9</sys_package>
@@ -104,7 +118,7 @@
             <sys_scope display_value="tweedledum">b470f332139532005faf56df3244b0b9</sys_scope>
             <sys_update_name>sys_ui_form_sections_d279ded7131d32005faf56df3244b03c</sys_update_name>
             <sys_updated_by>scott.starkey@snc</sys_updated_by>
-            <sys_updated_on>2017-03-10 13:39:22</sys_updated_on>
+            <sys_updated_on>2017-03-10 13:53:48</sys_updated_on>
             <sys_user/>
             <view display_value="Test View" name="test_view">0079569f13d932005faf56df3244b0d0</view>
             <view_name/>
